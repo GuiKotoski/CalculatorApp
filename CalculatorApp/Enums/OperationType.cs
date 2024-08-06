@@ -1,4 +1,4 @@
-namespace CalculatorApp.Enums;
+namespace CalculatorApp.Enums
 {
     public enum OperationType
     {
