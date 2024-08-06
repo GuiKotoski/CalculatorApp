@@ -18,7 +18,7 @@ namespace CalculatorApp
             double num2 = Convert.ToDouble(Console.ReadLine());
 
             Console.WriteLine("Enter operation(Addition, Subtraction, Multiplication, Division):");
-            string operationInput = Console.ReadLine();
+            string operationInput = Console.ReadLine()!;
             OperationType operationType = Enum.Parse<OperationType>(operationInput, true);
 
             double result = CalculatorService.Calculate(num1, num2, operationType);
