@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\paulo\\.nuget\\packages\\": {}
+    "C:\\Users\\camil\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\paulo\\Desktop\\Calculadora\\CalculatorApp\\CalculatorApp.csproj",
+      "projectUniqueName": "C:\\Users\\camil\\OneDrive\\Área de Trabalho\\CalculatorApp\\CalculatorApp\\CalculatorApp\\CalculatorApp\\CalculatorApp.csproj",
       "projectName": "CalculatorApp",
-      "projectPath": "C:\\Users\\paulo\\Desktop\\Calculadora\\CalculatorApp\\CalculatorApp.csproj",
-      "packagesPath": "C:\\Users\\paulo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\paulo\\Desktop\\Calculadora\\CalculatorApp\\obj\\",
+      "projectPath": "C:\\Users\\camil\\OneDrive\\Área de Trabalho\\CalculatorApp\\CalculatorApp\\CalculatorApp\\CalculatorApp\\CalculatorApp.csproj",
+      "packagesPath": "C:\\Users\\camil\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\camil\\OneDrive\\Área de Trabalho\\CalculatorApp\\CalculatorApp\\CalculatorApp\\CalculatorApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\paulo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\camil\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
